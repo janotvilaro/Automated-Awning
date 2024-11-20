@@ -1,7 +1,5 @@
 # Automated-Awning
 
-The main goal of this project was to study, design and build and auntomated awnning
-
 The main goal of this project was to study, design and build a motorised awning that is able to respond
 to some meteorological stimuli automatically, thus anticipating temperature rises in the appartment and preventing the deterioration of furniture and
 paintings caused by sunlight. The automation of the awning also guarantees
