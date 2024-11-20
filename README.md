@@ -6,7 +6,9 @@ paintings caused by sunlight. The automation of the awning also guarantees
 optimal safety thresholds through the incorporation of a wind sensor, that provides to the system an extra degree of freedom which is used to decide whether it is necessary to pick up the awning when wind conditions are adverse.
 
 The next figure shows a schematic Flowchart that summarizes the awning behaviour.
-![Flowchart](project/Diapositiva1.jpg)
+<p align="center">
+  <img src="Project/Diapositiva1.JPG" alt="Figure 2" width="500"/>
+</p>
 
 ## Notes
 
